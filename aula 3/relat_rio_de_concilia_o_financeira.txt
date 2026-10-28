@@ -1,0 +1,8 @@
+Data	ID Transação	Descrição	Tipo	Valor (R$)	Status Banco	Status Sistema	Diferença
+2026-10-01	TRX-9001	Depósito Inicial	Crédito	5000.00	Conciliado	Conciliado	0.00
+2026-10-02	TRX-9002	Pagamento Fornecedor XYZ	Débito	1250.50	Conciliado	Conciliado	0.00
+2026-10-03	TRX-9003	Recebimento Cliente ABC	Crédito	3400.00	Conciliado	Conciliado	0.00
+2026-10-04	TRX-9004	Tarifa de Manutenção de Conta	Débito	45.00	Conciliado	Conciliado	0.00
+2026-10-05	TRX-9005	Compra de Material de Escritório	Débito	320.75	Pendente	Conciliado	-320.75
+2026-10-06	TRX-9006	Transferência Recebida Filial	Crédito	1500.00	Conciliado	Conciliado	0.00
+2026-10-07	TRX-9007	Pagamento de Aluguel	Débito	2500.00	Conciliado	Conciliado	0.00
